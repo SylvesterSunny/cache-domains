@@ -1,0 +1,4 @@
+mirrors.aliyun.com
+mirrors.tuna.tsinghua.edu.cn
+nvidia-github.io
+ppa.launchpad.net
