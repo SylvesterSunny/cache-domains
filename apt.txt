@@ -3,6 +3,11 @@ ppa.launchpad.net
 hub.didiyun.com
 ppa.launchpad.net
 mirrors.mistgpu.com
+mirrors.bfsu.edu.cn
+mirrors.aliyun.com
+mirrors.tsinghua.edu.cn
+dl.google.com
+nvidia.github.io
 security.ubuntu.com
 archive.ubuntu.com
 deb.nodesource.com
