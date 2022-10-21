@@ -46,11 +46,6 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "hirez",
-			"description": "CDN for hirez",
-			"domain_files": ["hirez.txt"]
-		},
-		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
@@ -116,11 +111,6 @@
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
-		},
-		{
-			"name": "twitch",
-			"description": "CDN for twitch games / mods and addons",
-			"domain_files": ["twitch.txt"]
 		},
 		{
 			"name": "warframe",
