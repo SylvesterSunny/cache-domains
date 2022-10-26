@@ -13,3 +13,4 @@ archive.ubuntu.com
 deb.nodesource.com
 cn.download.nvidia.com
 registry.cn-zhangjiakou.aliyuncs.com
+keyserver.ubuntu.com
